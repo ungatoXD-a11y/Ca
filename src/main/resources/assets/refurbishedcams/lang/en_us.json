@@ -1,0 +1,9 @@
+{
+  "block.refurbishedcams.security_camera": "Security Camera",
+  "program.refurbishedcams.cameras": "Cameras",
+  "gui.refurbishedcams.scanning": "Scanning...",
+  "gui.refurbishedcams.none": "No cameras found in range",
+  "gui.refurbishedcams.header": "%s camera(s) within %s blocks",
+  "gui.refurbishedcams.refresh": "Refresh",
+  "gui.refurbishedcams.view_hint": "Arrow keys: rotate  |  ESC: exit"
+}
