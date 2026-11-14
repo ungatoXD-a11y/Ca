@@ -30,6 +30,7 @@ minecraft {
 repositories {
     exclusiveContent {
         forRepository { maven { url = 'https://cursemaven.com' } }
+        forRepositories(fg.repository) // lets ForgeGradle remap the downloaded mod to official mappings
         filter { includeGroup 'curse.maven' }
     }
 }
