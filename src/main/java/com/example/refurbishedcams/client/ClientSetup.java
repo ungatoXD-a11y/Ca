@@ -2,7 +2,7 @@ package com.example.refurbishedcams.client;
 
 import com.example.refurbishedcams.RefurbishedCams;
 import com.example.refurbishedcams.compat.CameraProgram;
-import com.mrcrayfish.furniture.refurbished.computer.client.Display;
+import com.mrcrayfish.furniture.refurbished.computer.Display;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
